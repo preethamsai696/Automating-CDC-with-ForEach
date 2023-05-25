@@ -1,1 +1,1 @@
-# Automating-CDC-with-ForEach
+# Automating Change Data Capture using ForEachLoop
